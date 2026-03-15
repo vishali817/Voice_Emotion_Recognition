@@ -1,0 +1,7 @@
+numpy
+librosa
+torch
+pyaudio
+gTTS
+pygame
+scikit-learn
